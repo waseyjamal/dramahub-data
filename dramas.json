@@ -2,12 +2,53 @@
   {
     "id": "arafta",
     "title": "Arafta (Bound by Fate)",
-    "shortTitle": "Arafta",
-    "description": "Turkish Drama with Hindi Subtitles. Download all episodes in high quality with smooth playback.",
-    "scheduleText": "Friday & Monday (6:30 PM)",
-    "language": "Turkish (Hindi Subtitles)",
-    "format": "Full Episode Download",
-    "heroImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKGGx1vBhQn0eElEXEhU3diKYLXNxdg1vXu2BUZ9EVs8P3C6pSM6UV-Mtpgn0sIiSRSBzGflxIuttO2a2tjy7AQ7OKhtqKOShie-R6-XFDVp5xZgNJq3IR_S9a3JsTuAiTTMb-YVezo-FOjod1sCgk4_bf0UcrEXbIClwyE9MVgD9KsC8of5Rhu4Q0bTLB/s800/channels4_banner.jpg",
-    "isActive": true
+    "description": "Turkish drama with Hindi subtitles. Captivating romantic and dramatic storylines.",
+    "posterImage": "https://picsum.photos/seed/arafta_poster/400/600",
+    "bannerImage": "https://picsum.photos/seed/arafta_banner/800/300",
+    "totalEpisodes": 60,
+    "genre": "Drama / Romance",
+    "rating": 9.0,
+    "releaseYear": 2025,
+    "isActive": true,
+    "order": 1
+  },
+  {
+    "id": "myleftside",
+    "title": "My Left Side",
+    "description": "Turkish drama with Hindi subtitles. Intense emotional tale with gripping twists and heartfelt moments.",
+    "posterImage": "https://picsum.photos/seed/myleftside_poster/400/600",
+    "bannerImage": "https://picsum.photos/seed/myleftside_banner/800/300",
+    "totalEpisodes": 52,
+    "genre": "Drama / Family",
+    "rating": 8.7,
+    "releaseYear": 2023,
+    "isActive": true,
+    "order": 2
+  },
+  {
+    "id": "yaralti",
+    "title": "Yaralti",
+    "description": "Turkish action-packed drama with Hindi subtitles. A gritty story of duty, betrayal, and survival.",
+    "posterImage": "https://picsum.photos/seed/yaralti_poster/400/600",
+    "bannerImage": "https://picsum.photos/seed/yaralti_banner/800/300",
+    "totalEpisodes": 48,
+    "genre": "Action / Crime",
+    "rating": 8.9,
+    "releaseYear": 2022,
+    "isActive": true,
+    "order": 3
+  },
+  {
+    "id": "kurulus_orhan",
+    "title": "Kuruluş: Orhan",
+    "description": "Epic Turkish historical drama with Hindi subtitles, following the rise of Orhan Ghazi and the Ottoman legacy.",
+    "posterImage": "https://picsum.photos/seed/kurulus_orhan_poster/400/600",
+    "bannerImage": "https://picsum.photos/seed/kurulus_orhan_banner/800/300",
+    "totalEpisodes": 45,
+    "genre": "Historical / Action",
+    "rating": 9.2,
+    "releaseYear": 2023,
+    "isActive": true,
+    "order": 4
   }
 ]
