@@ -11,22 +11,48 @@
     "max_per_session": 3,
     "ad_unit_id": "ca-app-pub-6293910854883144/7516942910",
     "screens": {
-      "episode_screen": true,
-      "drama_detail_screen": false,
-      "home_screen": false
+      "home_screen": false,
+      "episodes_screen": true,
+      "video_screen": true,
+      "upcoming_screen": false,
+      "watchlist_screen": false,
+      "history_screen": false,
+      "download_screen": false,
+      "profile_screen": false,
+      "premium_screen": false,
+      "suggest_drama_screen": false,
+      "rate_app_screen": false,
+      "report_problem_screen": false
     }
   },
   "rewarded": {
     "enabled": true,
     "ad_unit_id": "ca-app-pub-6293910854883144/1666538792",
     "screens": {
+      "home_screen": false,
+      "episodes_screen": false,
+      "video_screen": false,
       "upcoming_screen": true,
-      "locked_episode_screen": true
+      "watchlist_screen": false,
+      "history_screen": false,
+      "download_screen": false,
+      "profile_screen": false,
+      "premium_screen": false,
+      "suggest_drama_screen": false,
+      "rate_app_screen": false,
+      "report_problem_screen": false
     }
   },
   "native": {
     "enabled": false,
     "every_nth_card": 5,
-    "ad_unit_id": "ca-app-pub-6293910854883144/9819672629"
+    "ad_unit_id": "ca-app-pub-6293910854883144/9819672629",
+    "screens": {
+      "home_screen": false,
+      "episodes_screen": false,
+      "watchlist_screen": false,
+      "history_screen": false,
+      "download_screen": false
+    }
   }
 }
