@@ -1,0 +1,32 @@
+{
+  "ads_enabled": true,
+  "app_open": {
+    "enabled": true,
+    "cooldown_hours": 4,
+    "ad_unit_id": "ca-app-pub-6293910854883144/6758395011"
+  },
+  "interstitial": {
+    "enabled": true,
+    "cooldown_seconds": 30,
+    "max_per_session": 3,
+    "ad_unit_id": "ca-app-pub-6293910854883144/7516942910",
+    "screens": {
+      "episode_screen": true,
+      "drama_detail_screen": false,
+      "home_screen": false
+    }
+  },
+  "rewarded": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-6293910854883144/1666538792",
+    "screens": {
+      "upcoming_screen": true,
+      "locked_episode_screen": true
+    }
+  },
+  "native": {
+    "enabled": false,
+    "every_nth_card": 5,
+    "ad_unit_id": "ca-app-pub-6293910854883144/9819672629"
+  }
+}
