@@ -1,11 +1,1 @@
-{
-  "appName": "Drama Hub",
-  "telegramUrl": "https://t.me/araftahindisub",
-  "showHeroSection": true,
-  "showTelegramCTA": true,
-  "showMembershipPromo": true,
-  "enablePremiumBadge": true,
-  "latestVersion": 1,
-  "forceUpdate": false,
-  "hero_slider_dramas": []
-}
+{"appName":"Drama Hub","telegramUrl":"https://t.me/araftahindisub","showHeroSection":true,"showTelegramCTA":true,"showMembershipPromo":true,"enablePremiumBadge":true,"latestVersion":1,"forceUpdate":false,"hero_slider_dramas":["yaralti"]}
