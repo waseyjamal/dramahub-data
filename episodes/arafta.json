@@ -1,4 +1,28 @@
-[{"id":"arafta_ep_86","episodeNumber":86,"title":"Episode 86","videoId":"Z9GS71YsLfk","thumbnailImage": "https://raw.githubusercontent.com/waseyjamal/dramahub-data/main/images/aahps.png","downloadUrl":"","durationMinutes":72,"isPremium":false,"releaseDate":"2026-03-23T19:17:19.277","dramaId":"arafta"},{"id":"arafta_ep_85","episodeNumber":85,"title":"Episode 85","videoId":"68r_BYYlqZo","thumbnailImage":"https://raw.githubusercontent.com/waseyjamal/dramahub-data/main/images/aahps.png","downloadUrl":"","durationMinutes":75,"isPremium":false,"releaseDate":"2026-03-23T19:14:42.408","dramaId":"arafta"},
+[
+  {
+    "id": "arafta_ep_86",
+    "episodeNumber": 86,
+    "title": "Episode 86",
+    "videoId": "Z9GS71YsLfk",
+    "thumbnailImage": "https://raw.githubusercontent.com/waseyjamal/dramahub-data/main/images/aahps.png",
+    "downloadUrl": "",
+    "durationMinutes": 72,
+    "isPremium": false,
+    "releaseDate": "2026-03-23T19:17:19.277",
+    "dramaId": "arafta"
+  },
+  {
+    "id": "arafta_ep_85",
+    "episodeNumber": 85,
+    "title": "Episode 85",
+    "videoId": "68r_BYYlqZo",
+    "thumbnailImage": "https://raw.githubusercontent.com/waseyjamal/dramahub-data/main/images/aahps.png",
+    "downloadUrl": "",
+    "durationMinutes": 75,
+    "isPremium": false,
+    "releaseDate": "2026-03-23T19:14:42.408",
+    "dramaId": "arafta"
+  },
   {
     "id": "arafta_ep_84",
     "episodeNumber": 84,
